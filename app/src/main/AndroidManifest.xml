@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AdminPanel"
         tools:targetApi="31">
         <activity
+            android:name=".ViewOrdersActivity"
+            android:exported="false" />
+        <activity
             android:name=".OrdersActivity"
             android:exported="false" />
         <activity

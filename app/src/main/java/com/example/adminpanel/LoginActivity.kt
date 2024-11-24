@@ -15,9 +15,9 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        val loginn=findViewById<AppCompatButton>(R.id.Loginbutton)
-        val signInEmail=findViewById<EditText>(R.id.editTextTextEmailAddress)
-        val signInPass=findViewById<EditText>(R.id.editTextTextPassword)
+        val loginn=findViewById<AppCompatButton>(R.id.btnSignIn)
+        val signInEmail=findViewById<EditText>(R.id.etSinInEmail)
+        val signInPass=findViewById<EditText>(R.id.etSinInPassword)
 
         loginn.setOnClickListener{
             val email=signInEmail.text.toString()

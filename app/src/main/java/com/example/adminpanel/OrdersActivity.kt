@@ -17,9 +17,8 @@ class OrdersActivity : AppCompatActivity() {
         val logoutButton = findViewById<Button>(R.id.logoutButton)
 
         viewOrdersButton.setOnClickListener {
-            Toast.makeText(this, "Navigating to Orders...", Toast.LENGTH_SHORT).show()
             // Navigate to the orders page
-            val intent = Intent(this, OrdersActivity::class.java)
+            val intent = Intent(this, ViewOrdersActivity::class.java)
             startActivity(intent)
         }
 
