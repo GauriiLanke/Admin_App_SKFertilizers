@@ -19,6 +19,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish() // Finish SplashScreenActivity to prevent returning to it
         }, 2000)
-
     }
 }

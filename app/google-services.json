@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "734997192812",
+    "firebase_url": "https://shri-krishna-fertilizers-db7c2-default-rtdb.firebaseio.com",
+    "project_id": "shri-krishna-fertilizers-db7c2",
+    "storage_bucket": "shri-krishna-fertilizers-db7c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734997192812:android:66115590aa9f7eb3423849",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyNbRbEfWwzdjWmCZsTLERg0O7IGzS7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734997192812:android:04e32816085fcf62423849",
+        "android_client_info": {
+          "package_name": "com.example.sk_fertilizers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyNbRbEfWwzdjWmCZsTLERg0O7IGzS7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

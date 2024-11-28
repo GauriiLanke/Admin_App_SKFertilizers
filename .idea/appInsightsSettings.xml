@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.adminpanel" />
+                  <option name="mobileSdkAppId" value="1:734997192812:android:66115590aa9f7eb3423849" />
+                  <option name="projectId" value="shri-krishna-fertilizers-db7c2" />
+                  <option name="projectNumber" value="734997192812" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
